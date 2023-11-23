@@ -107,11 +107,6 @@ public class IntList {
     }
 
 
-    public  static void main(String[] args) {
-        IntList myList = IntList.of(0, 1, 2, 3);
-    }
-
-
 
 
 
